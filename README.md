@@ -20,4 +20,4 @@ dokelung @2016/07/09, Taipei
 
 ## 總覽
 
-* 書籍: [書目](contents/book.md)
+* [書籍](contents/book.md)
